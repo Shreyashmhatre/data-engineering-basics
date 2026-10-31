@@ -1,0 +1,9 @@
+sale_id,event_date,product,quantity,unit_price
+s001,2026-01-01,Sensor kit,1,1200.00
+s002,2026-01-02,Network adapter,2,800.00
+s003,2026-01-03,Microcontroller,1,650.00
+s002,2026-01-02,Network adapter,2,800.00
+s004,2026-02-30,Sensor kit,1,1200.00
+s005,2026-01-04,Network adapter,-1,800.00
+s006,2026-01-04,Sensor kit,1,12.999
+s007,2026-01-05,Sensor kit,2,1200.00
